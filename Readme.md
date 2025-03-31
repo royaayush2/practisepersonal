@@ -1,2 +1,2 @@
-##Practising Git Now"Initial commit" 
-"Initial commit" 
+### Practising Git Now
+Got some bit of clarity now
